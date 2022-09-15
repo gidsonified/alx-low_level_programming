@@ -4,7 +4,7 @@
  * @n: int type number
  * Return: return value of last digit
  */
-nt print_last_digit(int n)
+int print_last_digit(int n)
 {
 	int nv;
 

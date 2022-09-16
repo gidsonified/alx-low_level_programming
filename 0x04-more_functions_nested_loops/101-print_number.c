@@ -41,9 +41,11 @@ void print_number(int n)
 		ct--;
 	}
 	while (ct != 0)
+		
 	{
 		_putchar('0');
 		      ct--;
 	}
 	_putchar(ld);
 }
+

@@ -1,4 +1,1 @@
-Its about to go downnnnn
-
-
-
+doing my 0x0A-argc_argv now
